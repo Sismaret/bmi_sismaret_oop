@@ -1,0 +1,4 @@
+enum gender {
+  male,
+  female,
+}
